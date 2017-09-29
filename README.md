@@ -5,5 +5,7 @@
 
 created as a project for my high school's Pre-AP Computer Science course in May 2017
 
+## INSTRUCTIONS: Extract entire folder and
+
 credits to my classmates Thomas and Dante for help with the games
 menus and animated sprites
