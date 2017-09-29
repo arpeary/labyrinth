@@ -26,6 +26,6 @@ project that better suited all of our skills).
 
 <a href="https://arperry99.github.io/labyrinth/images/debug.PNG"><img src="https://arperry99.github.io/labyrinth/images/debug.PNG" width="500" height="391" /></a>
 
-*press the tidle key to see the raycasting debug screen*
+*press the tilde key to see the raycasting debug screen*
 
 Labyrinth was written by Rayquaza's Dante, Thomas, and Alec
