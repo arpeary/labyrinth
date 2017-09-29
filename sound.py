@@ -4,7 +4,7 @@ Created on May 16, 2017
 '''
 # sound.py
 import pygame
-pygame.init()
+pygame.mixer.init()
 
 footsteps = pygame.mixer.Sound('data/sound/footsteps loop.wav')
 torch = pygame.mixer.Sound('data/sound/torch sound effect.wav')

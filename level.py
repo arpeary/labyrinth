@@ -126,7 +126,7 @@ class Minimap(object):
         self.level=lev          # the level
         self.x,self.y=x,y       # top left coordinates
         self.dimensions=dim     # dimensions of the level
-        self.dim=(200,200)      # final dimensions of map
+        self.dim=(600,600)      # final dimensions of map
         self.alpha=alp          # transparency of the map
     
     def draw_player(self,surface,player):

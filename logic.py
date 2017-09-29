@@ -3,7 +3,8 @@ Created on May 20, 2017
 @author: perrya
 '''
 # logic.py
-import raycast,pygame,player,level,sound
+import raycast,pygame,player,sound,level
+pygame.init()
 # variables for game loop
 player1=player.Player([125,125])                # the player
 levellist=[level.Level("level1.txt",player1),   # list of levels in the game
