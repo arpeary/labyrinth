@@ -29,3 +29,5 @@ project that better suited all of our skills).
 *press the tilde key to see the raycasting debug screen*
 
 Labyrinth was written by Rayquaza's Dante, Thomas, and Alec
+
+[*(return to homepage)*](https://arperry99.github.io/)
