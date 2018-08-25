@@ -3,7 +3,7 @@
 [*Download Labyrinth(.ZIP)*](https://github.com/arperry99/labyrinth/archive/master.zip)
 
 ### a 2.5D maze crawler akin to Doom (1993)
-*Dungeon Dweller is written in Python 3.1 using PyGame 1.9.1*
+*Labyrinth is written in Python 3.1 using PyGame 1.9.1*
 
 <a href="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG"><img src="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG" width="500" height="391" /></a>
 
