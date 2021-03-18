@@ -5,7 +5,7 @@
 ### a 2.5D maze crawler akin to Doom (1993)
 *Labyrinth is written in Python 3.1 using PyGame 1.9.1*
 
-<a href="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG"><img src="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG" width="500" height="391" /></a>
+<a href="https://arpeary.github.io/labyrinth/images/gameplay-2.PNG"><img src="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG" width="500" height="391" /></a>
 
 #### Description
 Find your way out of the labyrinth! Revel in the pseudo 3D created in a 2D graphical 
@@ -24,7 +24,7 @@ project that better suited all of our skills).
 
 *explore a 2D environment while finding the exit door*
 
-<a href="https://arperry99.github.io/labyrinth/images/debug.PNG"><img src="https://arperry99.github.io/labyrinth/images/debug.PNG" width="500" height="391" /></a>
+<a href="https://arpeary.github.io/labyrinth/images/debug.PNG"><img src="https://arperry99.github.io/labyrinth/images/debug.PNG" width="500" height="391" /></a>
 
 *press the tilde key to see the raycasting debug screen*
 
