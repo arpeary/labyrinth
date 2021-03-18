@@ -1,11 +1,11 @@
-[*(return to homepage)*](https://arperry99.github.io/)
+[*(return to homepage)*](https://arpeary.github.io/)
 # Labyrinth
-[*Download Labyrinth(.ZIP)*](https://github.com/arperry99/labyrinth/archive/master.zip)
+[*Download Labyrinth(.ZIP)*](https://github.com/arpeary/labyrinth/archive/master.zip)
 
 ### a 2.5D maze crawler akin to Doom (1993)
 *Labyrinth is written in Python 3.1 using PyGame 1.9.1*
 
-<a href="https://arpeary.github.io/labyrinth/images/gameplay-2.PNG"><img src="https://arperry99.github.io/labyrinth/images/gameplay-2.PNG" width="500" height="391" /></a>
+<a href="https://arpeary.github.io/labyrinth/images/gameplay-2.PNG"><img src="https://arpeary.github.io/labyrinth/images/gameplay-2.PNG" width="500" height="391" /></a>
 
 #### Description
 Find your way out of the labyrinth! Revel in the pseudo 3D created in a 2D graphical 
@@ -20,14 +20,14 @@ images to create a 3D environment. Thanks to Dante and Thomas for sound, sprite
 and documentation help (sorry for taking on so much work, I should have picked a 
 project that better suited all of our skills).
 
-<a href="https://arperry99.github.io/labyrinth/images/title.PNG"><img src="https://arperry99.github.io/labyrinth/images/title.PNG" width="250" height="195" /></a><a href="https://arperry99.github.io/labyrinth/images/door.PNG" ><img src="https://arperry99.github.io/labyrinth/images/door.PNG" width="250" height="195" /></a> 
+<a href="https://arpeary.github.io/labyrinth/images/title.PNG"><img src="https://arpeary.github.io/labyrinth/images/title.PNG" width="250" height="195" /></a><a href="https://arpeary.github.io/labyrinth/images/door.PNG" ><img src="https://arpeary.github.io/labyrinth/images/door.PNG" width="250" height="195" /></a> 
 
 *explore a 2D environment while finding the exit door*
 
-<a href="https://arpeary.github.io/labyrinth/images/debug.PNG"><img src="https://arperry99.github.io/labyrinth/images/debug.PNG" width="500" height="391" /></a>
+<a href="https://arpeary.github.io/labyrinth/images/debug.PNG"><img src="https://arpeary.github.io/labyrinth/images/debug.PNG" width="500" height="391" /></a>
 
 *press the tilde key to see the raycasting debug screen*
 
 Labyrinth was written by Rayquaza's Dante, Thomas, and Alec
 
-[*(return to homepage)*](https://arperry99.github.io/)
+[*(return to homepage)*](https://arpeary.github.io/)
